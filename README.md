@@ -4,7 +4,7 @@
 
 Source files for generating AdventSans fonts. 
 
-This font was forked from [https://github.com/googlei18n/noto-source](Google's Noto Sans) in March 2017.
+This font was forked from [Google's Noto Sans](https://github.com/googlei18n/noto-source) in March 2017.
 --- 
 Note that as of February 2016, no sources are available for the released Noto fonts in [github.com/googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts). 
 The files in this repository are work-in-progress for future versions of the fonts that have not been released yet. 
