@@ -1,2 +1,3 @@
 env
 scripts/virtualenv
+.DS_Store
