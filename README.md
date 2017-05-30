@@ -49,7 +49,3 @@ Build scripts are under the [Apache license, version 2.0](LICENSE).
 ## Contributing
 
 To contribute to this project, please read [CONTRIBUTING](CONTRIBUTING.md) 
-
-## News
-
-* 2015-12-07: first release, covering Noto Sans UI {Italic, Mono, Roman}, Noto Sans Display {Italic, Roman}, Noto {Sans, Serif} {Armenian, Georgian}.
